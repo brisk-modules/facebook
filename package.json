@@ -7,7 +7,7 @@
 		{ "name": "Makis Tracend", "email": "makis@makesit.es" }
 	],
 	"homepage": "http://makesites.org/brisk#modules",
-	"keywords": ["twitter", "node", "data", "api", "public", "rest", "crud"],
+	"keywords": ["facebook", "node", "data", "api", "public", "rest", "crud"],
 	"repository": {
 		"type": "git",
 		"url": "git://github.com/brisk-modules/facebook.git"
