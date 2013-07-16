@@ -1,0 +1,30 @@
+{
+	"name": "brisk-facebook",
+	"version": "0.1.0",
+	"description": "Simple REST controller for the Facebook API",
+	"author": "makesites",
+	"contributors": [
+		{ "name": "Makis Tracend", "email": "makis@makesit.es" }
+	],
+	"homepage": "http://makesites.org/brisk#modules",
+	"keywords": ["twitter", "node", "data", "api", "public", "rest", "crud"],
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/brisk-modules/facebook.git"
+	},
+	"bugs": {
+		"url": "https://github.com/brisk-modules/facebook/issues"
+	},
+	"licenses": [
+		{
+			"type": "MIT license",
+			"url": "http://makesites.org/licenses/MIT"
+		}
+	],
+	"engines": { "node": ">=0.8.x" },
+	"main": "index",
+	"dependencies": {
+		"brisk": "*",
+		"fb": "0.6.x"
+	}
+}
