@@ -1,6 +1,6 @@
 {
 	"name": "brisk-facebook",
-	"version": "0.1.0",
+	"version": "0.2.0",
 	"description": "Simple REST controller for the Facebook API",
 	"author": "makesites",
 	"contributors": [
@@ -24,7 +24,7 @@
 	"engines": { "node": ">=0.8.x" },
 	"main": "index",
 	"dependencies": {
-		"brisk": "*",
+		"brisk": "0.x",
 		"fb": "0.6.x"
 	}
 }
